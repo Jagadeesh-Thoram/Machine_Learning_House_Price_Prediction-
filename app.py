@@ -16,7 +16,7 @@ st.set_page_config(
 # Load Dataset
 # ------------------------------------
 
-df = pd.read_csv("House_price.csv")
+df = pd.read_csv("House_Price.csv")
 
 # ------------------------------------
 # Load Model
